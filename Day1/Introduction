@@ -1,8 +1,21 @@
 Gen AI basics:
-AI :  machine that can play chess based on rules:
+AI :  Machine simulating human intelligence and decision making
+ML : Ability for a machine to learn without explicitly being programmed
+DL : Ability of a machine to process in a way that is inspired by human brain
+Gen AI :  Ability of a machine to create a new content based on existing content
 
-Foundational Models:
-Large Language Models:
+Generative AI Services at AWS:
+1. Foundational Model as a Service :  Amazon bedrock
+2. Building Own Models : AWS Sagemaker
+3. Compute : AWS titanium, AWS inferntia
+
 Amazon Bedrock :
+1. Accessing a leading of FM's through a single API
+2. Privately customize FM's using your organization data
+3. Build agents that execute complex business tasks by dynamically invoking API's
+4. Extend the power of FM's with your data using Retrival Augument Generation(RAG)
+5. Enable data security and compliance
+
+
 https://catalog.workshops.aws/amazon-bedrock/en-US
 
