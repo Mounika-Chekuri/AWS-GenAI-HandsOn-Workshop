@@ -1,21 +1,27 @@
-Gen AI basics:
-AI :  Machine simulating human intelligence and decision making
-ML : Ability for a machine to learn without explicitly being programmed
-DL : Ability of a machine to process in a way that is inspired by human brain
-Gen AI :  Ability of a machine to create a new content based on existing content
+# 🚀 **Gen AI Basics**  
+🔹 **AI (Artificial Intelligence)** – Machine simulating human intelligence and decision-making.  
+🤖 **ML (Machine Learning)** – Ability for a machine to learn without explicitly being programmed.  
+🧠 **DL (Deep Learning)** – Ability of a machine to process information in a way inspired by the human brain.  
+🎨 **Gen AI (Generative AI)** – Ability of a machine to create new content based on existing content.  
 
-Generative AI Services at AWS:
-1. Foundational Model as a Service :  Amazon bedrock
-2. Building Own Models : AWS Sagemaker
-3. Compute : AWS titanium, AWS inferntia
+---
 
-Amazon Bedrock :
-1. Accessing a leading of FM's through a single API
-2. Privately customize FM's using your organization data
-3. Build agents that execute complex business tasks by dynamically invoking API's
-4. Extend the power of FM's with your data using Retrival Augument Generation(RAG)
-5. Enable data security and compliance
+# ☁️ **Generative AI Services at AWS**  
+1️⃣ **🛠️ Foundational Model as a Service** – Amazon Bedrock  
+2️⃣ **🚀 Building Own Models** – AWS SageMaker  
+3️⃣ **⚡ Compute Services** – AWS Trainium & AWS Inferentia  
 
+---
 
-https://catalog.workshops.aws/amazon-bedrock/en-US
+# 🔥 **Amazon Bedrock Features**  
+✅ **📡 Unified API Access** – Access a variety of leading foundational models through a single API.  
+✅ **🔒 Private Customization** – Securely fine-tune foundational models with your organization’s data.  
+✅ **🤖 Intelligent Agents** – Build AI agents that execute complex business tasks by dynamically invoking APIs.  
+✅ **📚 RAG (Retrieval-Augmented Generation)** – Extend the power of foundational models with your data for better responses.  
+✅ **🛡️ Security & Compliance** – Ensure data security, governance, and compliance while leveraging AI capabilities.
+
+---
+
+# 🔗 **[Amazon Bedrock Workshop](https://catalog.workshops.aws/amazon-bedrock/en-US)** 🛠️
+
 
