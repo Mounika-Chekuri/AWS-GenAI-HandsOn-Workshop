@@ -9,5 +9,5 @@ Prompt is the natural text that request generative AI to perform specific task.
 
 3️⃣ **Input Data** - The input you want a response for.
 
-4️⃣ **Output Indicator ** -  The output type or format.
+4️⃣ **Output Indicator** -  The output type or format.
 
