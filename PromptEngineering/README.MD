@@ -1,7 +1,7 @@
 # ☁️ **Prompt Engineering**  
 Prompt is the natural text that request generative AI to perform specific task.
 
-🚀 Prompting Engineering Structure
+# 🚀 **Prompting Engineering Structure**
 
 1️⃣ **Instructions** - A Task for the model to do.
 
