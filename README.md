@@ -1,1 +1,1 @@
-# BESA_Batch8
+Hands-on AWS Gen-AI WorkShop
