@@ -1,3 +1,10 @@
+# 🚀 **Prompt Engineering**
+
+## **Definition:**
+**Prompt Engineering** refers to the art and science of crafting inputs (prompts) that guide generative AI models to perform specific tasks effectively. By designing structured, contextually relevant, and clear prompts, you can improve the performance, accuracy, and efficiency of AI systems in a wide range of applications.
+
+---
+
 # 🚀 **Prompting Engineering Structure**
 
 ## 1️⃣ **Instructions**
@@ -19,7 +26,7 @@ The output type or format.
 ## 1️⃣ **Zero-Shot**
 Zero Shot prompting describes the technique where you present a task to an LLM without giving it further examples.
 
-**Example**:
+**Example:**
 
 **Human**: Add 10+10  
 **Assistant**: 20
@@ -29,7 +36,7 @@ Zero Shot prompting describes the technique where you present a task to an LLM w
 ## 2️⃣ **Few-Shot**
 Giving the model more information about the tasks at hand via examples is called Few-Shot Prompting.
 
-**Example**:
+**Example:**
 
 - **Tweet**: "I hate it when my phone battery dies.”  
   **Sentiment**: Negative
@@ -48,7 +55,7 @@ Giving the model more information about the tasks at hand via examples is called
 ## 3️⃣ **Chain-of-Thought**
 Chain-of-Thought (CoT) prompting breaks down complex reasoning tasks through intermediary reasoning steps. Chain-of-Thought prompts are usually very specific to a problem type.
 
-**Example**:
+**Example:**
 
 On a given week, the viewers for a TV channel were:
 
@@ -60,5 +67,7 @@ On a given week, the viewers for a TV channel were:
 **Answer**: Based on the numbers given and without any more information, there is a daily decrease of 100 viewers. If we assume this trend will continue during the following days, we can expect 6200 viewers on Thursday and therefore 6100 viewers on Friday.
 
 **Question**: How many viewers can we expect on Saturday? *(Think Step-by-Step)*  
-**Answer**: 
+**Answer**: We continue with the same daily decrease, predicting 6000 viewers on Saturday.
+
+
 
