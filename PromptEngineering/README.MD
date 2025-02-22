@@ -18,7 +18,9 @@ Prompt is the natural text that request generative AI to perform specific task.
 Eg : 
 Human : Add 10+10
 Assitance : 20
+
 2️⃣ **Few -Shot** - Giving the model more information about the tasks at hand via examples is called Few-Shot Prompting.
+
 Eg:
 Tweet: "I hate it when my phone battery dies.”: Sentiment: Negative
 Tweet: "My day has been great”: Sentiment: Positive
